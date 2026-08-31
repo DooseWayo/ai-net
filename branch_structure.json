@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "doose-wayo-branch",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "doose-wayo-branch": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "doose-wayo-branch",
+    "origin"
+  ]
+}
